@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Click Up!</string>
+    <string name="chat">CHAT</string>
+    <string name="message">Message:</string>
+    <string name="note">- clickUp - What\'s Up! Message -</string>
+    <string name="what_s_up_message">What\'s Up! Message</string>
+</resources>
